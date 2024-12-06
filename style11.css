@@ -1,0 +1,98 @@
+a{
+    text-align: center;
+    background-color: #ecb847;
+    color: #110303;
+    padding: 10px 40px;
+    font-size: 20px;
+    font-family:'pacifico',cursive;
+    border-bottom: 5px solid #ecb847;
+    border-radius: 20px;
+    text-decoration: none;
+    text-shadow: 0px -2px rgb(233, 221, 221);
+    transition: all 0.1s;
+    -webkit-transition: all 0.1s;
+    margin: auto;
+
+}
+a:hover{
+    border-bottom: 5px solid;
+    background-color: #ecb847;
+}
+img{
+    margin: auto;
+    width: 70%;
+    text-align: center;
+}
+h1{
+  text-align: center;
+  color: #1b1b19;
+}
+table{
+  text-align: center;
+  width: 1000px;
+  border: 1px solid;
+  margin-left: 90px;
+}
+.tab{
+  text-align: center;
+  width: 1200px;
+  border: 1px solid;
+}
+.hh{
+  list-style: none;
+  font-size: 11px;
+  padding: 5%;
+}
+li{
+  font-size: 17px;
+  padding: 4%;
+  list-style: none;
+}
+div{
+  margin: 5%;
+}
+.ihg{
+  width: 100px;
+  height: 100px;
+}
+.ihg1{
+  width: 50px;
+  height: 50px;
+}
+body{
+  background-color: rgb(143, 145, 136);
+}
+footer{
+  margin: 11%;
+  text-align: center;
+}
+p{
+  font-size: x-large;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-style: oblique;
+}
+.pt{
+  text-align: center;
+}
+.pt::before{
+  content:" ▶";
+ }
+ label{
+  font-size: x-large;
+
+ }
+ legend{
+  font-size: xx-large;
+ }
+.but{
+  font-size: x-large;
+}
+div{
+  text-align: center;
+}
+.com{
+  text-align: left;
+}
+
+
+
